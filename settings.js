@@ -7,19 +7,19 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.youtube = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
-global.ownername = 'YahyaGanzz'
-global.botname ='AzzBot-Md'
+global.owner = ['62881027143352']
+global.premium = ['62881027143352']
+global.youtube = 'https://youtube.com/channel/MikoSAMP'
+global.ownername = 'MikoKrepz'
+global.botname ='Miko Botz'
 global.donasi = {
-    saweria: 'Kaga Punya',
-    nomor: '081511480762'
+    saweria: 'https://saweria.co/MikoMC',
+    nomor: '0881027143352'
 }
-global.packname = 'AzzBot'
-global.author = 'WhatsApp Bot'
+global.packname = 'MikoKrepz'
+global.author = 'MikoBotz'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','#']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
